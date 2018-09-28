@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Historia de patos</string>
+    <string name="titulo">El pato</string>
+    <string name="creador">Creado por Luis</string>
+    <string name="historia">Erase una vez un pato volador que hacía cuac todos los dias a la misma hora</string>
+</resources>

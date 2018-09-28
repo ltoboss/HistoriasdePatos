@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Histoire des canards</string>
+    <string name="titulo">Le canard</string>
+    <string name="creador">Créé par Luis</string>
+    <string name="historia">Il était une fois un canard volant qui faisait des charlatans tous les jours à la même heure</string>
+</resources>

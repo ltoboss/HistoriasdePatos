@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Ducks hystory</string>
+    <string name="titulo">The duck</string>
+    <string name="creador">Created by Luis </string>
+    <string name="historia">Once upon a time there was a flying duck that quacked every day at the same time</string>
+</resources>
